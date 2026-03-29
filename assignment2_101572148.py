@@ -205,4 +205,4 @@ if __name__ == "__main__":
 # could be implemented with a list comprehension that selects results where the service field matches a desired value,
 # such as [r for r in self.scan_results if r[2] == "HTTP"]. This makes it easy for users to quickly focus on relevant
 # open ports without manually reviewing all results.
-# Diagram: See diagram_studentID.png in the repository root
+# Diagram: See diagram_101572148.png in the repository root for a flowchart of this proposed feature
